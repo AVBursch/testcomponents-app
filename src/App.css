@@ -23,6 +23,34 @@
   color: #61dafb;
 }
 
+div.float-left {float:left;}
+
+div.float-top {float:top;}
+
+
+
+div.grayborder {border:2px solid gray;}
+
+
+
+div.green {background-color:green;}
+
+div.blue {background-color:blue;}
+
+div.red {background-color:red;}
+
+div.purple {background-color:purple;}
+
+p.line-space {line-height:1.2;}
+
+p.overflow-hidden {
+  white-space: nowrap; 
+  width: 175px; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
