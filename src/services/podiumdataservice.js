@@ -240,6 +240,187 @@ const GalleryDataService = [
         gallery_element_description : "Bedroom Assembly 61",
         gallery_element_file_size : 26
     },
+    {
+        gallery_element_category : "Hardware and Construction",
+        gallery_element_subcategory : "Electrical",
+        gallery_element_description : "Premier Light Switch Modern 3 ",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Hardware and Construction",
+        gallery_element_subcategory : "Electrical",
+        gallery_element_description : "Power Assembly",
+        gallery_element_file_size : 7
+    },
+    {
+        gallery_element_category : "Hardware and Construction",
+        gallery_element_subcategory : "Electrical",
+        gallery_element_description : "Power Chord",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Hardware and Construction",
+        gallery_element_subcategory : "Electrical",
+        gallery_element_description : "Modern Light Switches",
+        gallery_element_file_size : 2
+    },
+    {
+        gallery_element_category : "Hardware and Construction",
+        gallery_element_subcategory : "Electrical",
+        gallery_element_description : "Light Switch3 Plastic",
+        gallery_element_file_size : 2
+    },
+    {
+        gallery_element_category : "Office",
+        gallery_element_subcategory : "Partitions and Enclosures",
+        gallery_element_description : "Bedroom Assembly 61",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Office",
+        gallery_element_subcategory : "Partitions and Enclosures",
+        gallery_element_description : "Bedroom Assembly 61",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Office",
+        gallery_element_subcategory : "Partitions and Enclosures",
+        gallery_element_description : "Bedroom Assembly 61",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Office",
+        gallery_element_subcategory : "Partitions and Enclosures",
+        gallery_element_description : "Bedroom Assembly 61",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Office",
+        gallery_element_subcategory : "Partitions and Enclosures",
+        gallery_element_description : "Bedroom Assembly 61",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Light Fixtures Interior",
+        gallery_element_subcategory : "Floor",
+        gallery_element_description : "Twiggy",
+        gallery_element_file_size : 2
+    },
+    {
+        gallery_element_category : "Light Fixtures Interior",
+        gallery_element_subcategory : "Floor",
+        gallery_element_description : "Quapaw 72 Arched",
+        gallery_element_file_size : 3
+    },
+    {
+        gallery_element_category : "Light Fixtures Interior",
+        gallery_element_subcategory : "Floor",
+        gallery_element_description : "Prosper 63 Arched",
+        gallery_element_file_size : 6
+    },
+    {
+        gallery_element_category : "Light Fixtures Interior",
+        gallery_element_subcategory : "Floor",
+        gallery_element_description : "Phoebe 84 Arched",
+        gallery_element_file_size : 5
+    },
+    {
+        gallery_element_category : "Light Fixtures Interior",
+        gallery_element_subcategory : "Floor",
+        gallery_element_description : "Orbs 85 Tree",
+        gallery_element_file_size : 5
+    },
+    {
+        gallery_element_category : "Kitchen",
+        gallery_element_subcategory : "Appliances",
+        gallery_element_description : "Panasonic Refrigerator 2",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Kitchen",
+        gallery_element_subcategory : "Appliances",
+        gallery_element_description : "Panasonic Rice Cooker 01",
+        gallery_element_file_size : 10
+    },
+    {
+        gallery_element_category : "Kitchen",
+        gallery_element_subcategory : "Appliances",
+        gallery_element_description : "Panasonic Refrigerator 1",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Kitchen",
+        gallery_element_subcategory : "Appliances",
+        gallery_element_description : "Panasonic Microwave 01",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Kitchen",
+        gallery_element_subcategory : "Appliances",
+        gallery_element_description : "Panasonic Food Processor 01",
+        gallery_element_file_size : 3
+    },
+    {
+        gallery_element_category : "Electronic",
+        gallery_element_subcategory : "Computers",
+        gallery_element_description : "Samsung UJ59 Series LED 4K",
+        gallery_element_file_size : 9
+    },
+    {
+        gallery_element_category : "Electronic",
+        gallery_element_subcategory : "Computers",
+        gallery_element_description : "Dell Ultrasharp LED 4K UHD Monitor",
+        gallery_element_file_size : 9
+    },
+    {
+        gallery_element_category : "Electronic",
+        gallery_element_subcategory : "Computers",
+        gallery_element_description : "2019 MacBook Pro 15 In with Touchpad",
+        gallery_element_file_size : 6
+    },
+    {
+        gallery_element_category : "Electronic",
+        gallery_element_subcategory : "Computers",
+        gallery_element_description : "2019 MacBook Air 13 In with Touchpad",
+        gallery_element_file_size : 7
+    },
+    {
+        gallery_element_category : "Electronic",
+        gallery_element_subcategory : "Computers",
+        gallery_element_description : "2019 IPad Air",
+        gallery_element_file_size : 3
+    },
+    {
+        gallery_element_category : "Windows",
+        gallery_element_subcategory : "DC and Misc",
+        gallery_element_description : "DC Linear Screen V2",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Windows",
+        gallery_element_subcategory : "DC and Misc",
+        gallery_element_description : "DC modular window V3",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Windows",
+        gallery_element_subcategory : "Andersen Series E Color",
+        gallery_element_description : "Colonial White 48X72",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Windows",
+        gallery_element_subcategory : "Andersen Series E Color",
+        gallery_element_description : "Colonial Dark Bronze 48X72",
+        gallery_element_file_size : 1
+    },
+    {
+        gallery_element_category : "Windows",
+        gallery_element_subcategory : "Andersen Series E Color",
+        gallery_element_description : "Colonial Canvas 48X72",
+        gallery_element_file_size : 1
+    },
+
 
 ];
 
@@ -266,4 +447,34 @@ export function getBathroomCategoryList()
 export function getBedroomCategoryList()
 {
     return GalleryDataService.filter (m => m.gallery_element_category === "Bedroom");
+}
+
+export function getHardwareCategoryList()
+{
+    return GalleryDataService.filter (m => m.gallery_element_category === "Hardware and Construction");
+}
+
+export function getOfficeCategoryList()
+{
+    return GalleryDataService.filter (m => m.gallery_element_category === "Office");
+}
+
+export function getLightFixturesCategoryList()
+{
+    return GalleryDataService.filter (m => m.gallery_element_category === "Light Fixtures Interior");
+}
+
+export function getKitchenCategoryList()
+{
+    return GalleryDataService.filter (m => m.gallery_element_category === "Kitchen");
+}
+
+export function getElectronicCategoryList()
+{
+    return GalleryDataService.filter (m => m.gallery_element_category === "Electronic");
+}
+
+export function getWindowsCategoryList()
+{
+    return GalleryDataService.filter (m => m.gallery_element_category === "Windows");
 }
